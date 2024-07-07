@@ -1,0 +1,6 @@
+{
+	"name": "loupe",
+	"version": "3.1.0",
+	"type": "commonjs",
+	"main": "./lib/index.js"
+}

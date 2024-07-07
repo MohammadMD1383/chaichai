@@ -1,3 +1,5 @@
+.idea
+tsconfig.json
 .git*
 docs/
 test/

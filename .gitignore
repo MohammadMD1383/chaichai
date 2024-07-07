@@ -1,3 +1,6 @@
+.idea
+cjs/dist
+
 lib-cov
 *.seed
 *.log

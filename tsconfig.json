@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"module": "CommonJS",
+		"outDir": "cjs/dist",
+		"sourceMap": true,
+		"allowJs": true
+	},
+	"files": [
+		"./index.js",
+		"node_modules/check-error/index.js",
+		"node_modules/assertion-error/index.js",
+		"node_modules/deep-eql/index.js",
+		"node_modules/pathval/index.js"
+	],
+	"include": [
+		"node_modules/loupe"
+	]
+}
